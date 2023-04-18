@@ -1,0 +1,21 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "ejemplo blockchain",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "blockchain",
+    "uach",
+    "demo"
+  ],
+  "author": "Manuel Calleros",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "cryptojs": "^2.5.3"
+  }
+}
